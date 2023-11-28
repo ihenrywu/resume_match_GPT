@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Resume Match",
+  "name": "Resume Match -- match your resume to job description with AI",
   "icons": [
     {
       "src": "favicon.ico",
